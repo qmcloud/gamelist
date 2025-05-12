@@ -1,5 +1,7 @@
 {
-    "posts": [
+    "isroute":true,
+	"url":"http://localhost:8200",
+	"list": [
         {
             "title": "斗地主",
             "des": "本包用了演示私有代码安装，为了让你安装代码仓更直观，并测试代码仓是否安装成功。",
