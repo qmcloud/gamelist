@@ -1,4 +1,7 @@
 {
+	"isroute":{
+		"url":"http://localhost:8200"
+	},
 	"list": [
         {
             "title": "斗地主",
