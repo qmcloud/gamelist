@@ -1,6 +1,6 @@
 {
 	"isroute":{
-		"url":"http://localhost:8200"
+		"url":"https://my-json-server.typicode.com/qmcloud/chess/db"
 	},
 	"list": [
         {
